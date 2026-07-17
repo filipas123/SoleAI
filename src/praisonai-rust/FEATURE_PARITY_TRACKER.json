@@ -424,7 +424,7 @@
     ]
   },
   "rustSDK": {
-    "path": "/home/runner/work/PraisonAI/PraisonAI/src/praisonai-rust",
+    "path": "/home/runner/work/SoleAI/SoleAI/src/praisonai-rust",
     "exports": [
       "A2A",
       "A2AAgentCapabilities",

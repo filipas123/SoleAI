@@ -449,7 +449,7 @@
 
 ## Python Core SDK Exports
 
-**Path:** `/home/runner/work/PraisonAI/PraisonAI/src/praisonai-agents/praisonaiagents`
+**Path:** `/home/runner/work/SoleAI/SoleAI/src/praisonai-agents/praisonaiagents`
 
 <details>
 <summary><strong>agent</strong> (43 exports)</summary>
@@ -723,7 +723,7 @@ from praisonaiagents import AgentFlow, If, Include, Loop, MAX_NESTING_DEPTH, Par
 
 ## TypeScript SDK Exports
 
-**Path:** `/home/runner/work/PraisonAI/PraisonAI/src/praisonai-ts/src`
+**Path:** `/home/runner/work/SoleAI/SoleAI/src/praisonai-ts/src`
 
 <details>
 <summary><strong>agent</strong> (64 exports)</summary>
